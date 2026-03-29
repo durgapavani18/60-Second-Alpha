@@ -1,7 +1,7 @@
 # 60-Second Alpha 📈
 
 AI-powered 60-second market update video generator for Indian retail investors.
-Built for the **ET Markets Hackathon** — AI for the Indian Investor.
+Built for the **ET GenAI Hackathon** — AI for the Indian Investor.
 
 ---
 
@@ -42,7 +42,7 @@ Enter any NSE stock ticker and get an auto-generated 60-second video with:
 ├── voice_generator.py   # Text-to-speech
 ├── video_generator.py   # Renders final video
 ├── requirements.txt     # Python dependencies
-├── .env                 # API keys (never commit this)
+├── .env                 # API keys 
 └── assets/
     ├── bg.jpg           # Video background image
     └── voice.mp3        # Generated audio (auto-created)
@@ -173,4 +173,4 @@ Always do your own research before making investment decisions.
 
 ---
 
-Built with for the ET Markets Hackathon 2025
+Built with for the ET GenAI Hackathon 2026
